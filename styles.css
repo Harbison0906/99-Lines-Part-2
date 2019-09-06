@@ -1,0 +1,24 @@
+body {
+  background-color: #135313;
+}
+
+h1 {
+  color: #F5F5F5;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.friend {
+  background-color: #00004d;
+  font-family: 'Roboto', sans-serif;
+  padding: 2px;
+}
+
+div > h3 {
+  text-transform: uppercase;
+  color: #F5F5F5;
+}
+ div > p {
+   color: #F5F5F5;
+ }
