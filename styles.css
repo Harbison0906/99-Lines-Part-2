@@ -8,6 +8,7 @@ body {
   background-color: #00004d;
   box-shadow: -2px 3px 4px rgba(0,0,0,0.6);
   margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 h1 {
@@ -19,16 +20,18 @@ h1 {
 }
 
 .friend {
-  background-color: #00004d;
   font-family: 'Roboto', sans-serif;
   padding: 2px;
+  margin-left: 4px;
 }
 
 div > h3 {
   text-transform: uppercase;
+  text-decoration: underline;
   color: #F5F5F5;
 }
  div > p {
    color: #F5F5F5;
    text-transform: none;
+   
  }
