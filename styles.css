@@ -2,10 +2,19 @@ body {
   background-color: #135313;
 }
 
+.btn {
+  color: #F5F5F5;
+  font-family: 'Lato', sans-serif;
+  background-color: #00004d;
+  box-shadow: -2px 3px 4px rgba(0,0,0,0.6);
+  margin-left: 10px;
+}
+
 h1 {
   color: #F5F5F5;
   text-align: center;
   font-family: 'Lato', sans-serif;
+  text-shadow: -4px 3px 4px rgba(0,0,0,0.6);
 
 }
 
@@ -21,4 +30,5 @@ div > h3 {
 }
  div > p {
    color: #F5F5F5;
+   text-transform: none;
  }
